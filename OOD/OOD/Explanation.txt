@@ -1,0 +1,5 @@
+﻿Solution for the problem = > 
+1) Creating Abstract Base Class Vehicles and adding the validation which required for the vechiles.
+2) Adding new validation for the Land Vehicles and Sea Vechiles by overriding the Validation Method from the Base Vehicle Class in the Land Vehicles and Sea Vehicles Class Respectively,
+So newly added Vehicles and there property will call the same validation class and the functionality will work as it is.
+3) New Land Vechile Validation property will be added in the land Vehicle class and it validation in the same class, So every time validation is called for override class once to validate all the validation.

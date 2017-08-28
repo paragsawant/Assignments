@@ -1,0 +1,7 @@
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\OOD\OOD\bin\Debug\netstandard1.4\OOD.deps.json
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\OOD\OOD\bin\Debug\netstandard1.4\OOD.dll
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\OOD\OOD\bin\Debug\netstandard1.4\OOD.pdb
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\OOD\OOD\obj\Debug\netstandard1.4\OOD.csproj.CoreCompileInputs.cache
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\OOD\OOD\obj\Debug\netstandard1.4\OOD.AssemblyInfo.cs
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\OOD\OOD\obj\Debug\netstandard1.4\OOD.dll
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\OOD\OOD\obj\Debug\netstandard1.4\OOD.pdb

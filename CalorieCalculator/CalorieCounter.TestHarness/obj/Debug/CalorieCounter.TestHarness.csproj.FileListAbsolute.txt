@@ -1,0 +1,51 @@
+\\dept01nas\Medical\BloodyScrummers\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCounter.TestHarness.exe.config
+D:\Parag\AtHomeExercises\AtHomeExercises\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCounter.TestHarness.exe.config
+D:\Parag\AtHomeExercises\AtHomeExercises\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCounter.TestHarness.exe
+D:\Parag\AtHomeExercises\AtHomeExercises\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCounter.TestHarness.pdb
+D:\Parag\AtHomeExercises\AtHomeExercises\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCalculator.API.dll
+D:\Parag\AtHomeExercises\AtHomeExercises\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCalculator.API.pdb
+D:\Parag\AtHomeExercises\AtHomeExercises\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\obj\Debug\CalorieCounter.TestHarness.csprojResolveAssemblyReference.cache
+D:\Parag\AtHomeExercises\AtHomeExercises\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\obj\Debug\CalorieCounter.TestHarness.exe
+D:\Parag\AtHomeExercises\AtHomeExercises\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\obj\Debug\CalorieCounter.TestHarness.pdb
+D:\Parag\AtHomeExercises\AtHomeExercises\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\Autofac.dll
+D:\Parag\AtHomeExercises\AtHomeExercises\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\Owin.dll
+D:\Parag\AtHomeExercises\AtHomeExercises\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\Autofac.Integration.Owin.dll
+D:\Parag\AtHomeExercises\AtHomeExercises\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\Microsoft.Owin.dll
+D:\Parag\AtHomeExercises\AtHomeExercises\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCalculator.API.dll.config
+D:\Parag\AtHomeExercises\AtHomeExercises\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\Autofac.xml
+D:\Parag\AtHomeExercises\AtHomeExercises\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\Autofac.Integration.Owin.xml
+D:\Parag\AtHomeExercises\AtHomeExercises\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\Microsoft.Owin.xml
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCounter.TestHarness.exe.config
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\CalorieCalculator\CalorieCounter.TestHarness\obj\Debug\CalorieCounter.TestHarness.exe
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\CalorieCalculator\CalorieCounter.TestHarness\obj\Debug\CalorieCounter.TestHarness.pdb
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\CalorieCalculator\CalorieCounter.TestHarness\obj\Debug\CalorieCounter.TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\CalorieCalculator\CalorieCounter.TestHarness\obj\Debug\CalorieCounter.TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCounter.TestHarness.exe
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCounter.TestHarness.pdb
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\Autofac.dll
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCalculator.API.dll
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\Microsoft.Owin.dll
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\Owin.dll
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\Autofac.Integration.Owin.dll
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCalculator.API.pdb
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCalculator.API.dll.config
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\Autofac.xml
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\Microsoft.Owin.xml
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\Autofac.Integration.Owin.xml
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\SolutionParag\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCounter.TestHarness.exe.config
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\SolutionParag\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCounter.TestHarness.exe
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\SolutionParag\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCounter.TestHarness.pdb
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\SolutionParag\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\Autofac.dll
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\SolutionParag\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCalculator.API.dll
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\SolutionParag\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\Microsoft.Owin.dll
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\SolutionParag\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\Owin.dll
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\SolutionParag\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\Autofac.Integration.Owin.dll
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\SolutionParag\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCalculator.API.pdb
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\SolutionParag\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCalculator.API.dll.config
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\SolutionParag\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\Autofac.xml
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\SolutionParag\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\Microsoft.Owin.xml
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\SolutionParag\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\Autofac.Integration.Owin.xml
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\SolutionParag\CalorieCalculator\CalorieCounter.TestHarness\obj\Debug\CalorieCounter.TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\SolutionParag\CalorieCalculator\CalorieCounter.TestHarness\obj\Debug\CalorieCounter.TestHarness.csproj.CoreCompileInputs.cache
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\SolutionParag\CalorieCalculator\CalorieCounter.TestHarness\obj\Debug\CalorieCounter.TestHarness.exe
+C:\Users\v-pasawa\Documents\Visual Studio 2017\Projects\SolutionParag\CalorieCalculator\CalorieCounter.TestHarness\obj\Debug\CalorieCounter.TestHarness.pdb
